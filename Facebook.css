@@ -1,0 +1,228 @@
+body {
+  padding-bottom: 500px;
+  background-color: rgb(235, 234, 234);
+  
+  
+}
+
+
+p, label {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.facebook {
+  color: hsl(214, 89%, 52%);
+  font-weight: bold;
+  font-size: 45px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  margin-top: 50px;
+  width: 200px;
+}
+.facebook1 {
+  font-size: 60px;
+  color: hsl(214, 89%, 52%);
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  margin-top: 30px;
+  width: 250px;
+}
+.create {
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  line-height:40px;
+}
+.its {
+  color: rgb(143, 142, 142);
+  text-align: center;
+  margin-bottom: 10px;
+}
+.line {
+   border-bottom: 1px solid rgb(233, 231, 231);
+   margin-left: -20px;
+   margin-right: -20px;
+   margin-bottom: 18px;
+}
+
+.email, .password {
+  display: block;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  padding: 14px 16px;
+  width: 330px;
+  font-size: 16px;
+  border-radius: 5px;
+  border-color: rgb(209, 205, 200);
+  border-style: solid;
+  border-width: 1px;
+}
+.firstname, .lastname, .mobile, .newpassword {
+  display: inline;
+  font-size: 16px;
+  width: 160px;
+  border: 1px solid rgb(209, 205, 200);
+  border-radius: 5px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+.firstname {
+  margin-right: 13px;
+}
+.mobile, .newpassword {
+  width: 91%;
+}
+.birth, .gender{
+  color: rgb(79, 78, 78);
+  margin-bottom: 7px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+#month, #day, #year {
+  width: 30%;
+  margin-right: 7px;
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid rgb(209, 205, 200);
+}
+#rad {
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  
+}
+.female, .male, .custom {
+  border: 1px solid rgb(209, 205, 200);
+  margin-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 5px;
+  margin-left: 2px;
+  padding-left: 8px;
+  padding-right: 4px;
+  cursor: default;
+}
+.gender {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 13px;
+}
+.custom {
+  padding-right: 4px;
+}
+.rad1 {
+  margin-left: 38px;
+}
+.message {
+  font-size: 13px;
+  margin-top: 15px;
+  width: 400px;
+  color: rgb(136, 135, 135);
+}
+
+.loginbutton {
+  background-color: rgb(24, 119, 242);
+  color: white;
+  width: 364px;
+  border: none;
+  font-weight: bold;
+  padding: 13px;
+  font-size: 19px;
+  border-radius: 5px;
+  margin-bottom: 19px;
+  margin-top: 5px;
+  cursor: pointer;
+  
+}
+.signup-button {
+  background-color: rgb(8, 182, 5);
+  color: white;
+  width: 190px;
+  border: none;
+  font-weight: bold;
+  padding: 8px;
+  font-size: 19px;
+  border-radius: 8px;
+  margin-bottom: 19px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-left: 100px;
+}
+.signup-button:hover {
+  color: rgb(241, 238, 238);
+}
+.loginbutton:hover {
+  opacity: 0.9;
+  
+}
+.loginbutton:active {
+  opacity: 0.7;
+}
+
+
+.a1 {
+  display: inline;
+  font-family: arial;
+  color: rgb(24, 119, 242);
+  font-size: 14px;
+}
+.a2 {
+  text-decoration: none;
+  font-size: 10px;
+}
+.a3 {
+  font-family: arial;
+  color: rgb(24, 119, 242);
+  font-size: 16px;
+  margin-left: 105px;
+  text-decoration: none;
+}
+.a2:hover {
+  text-decoration: underline;
+}
+#fa {
+  margin-left: 58px;
+  text-decoration: none;
+}
+#si {
+  text-decoration: none;
+}
+#fa:hover, #si:hover {
+  text-decoration: underline;
+}
+
+.log {
+  margin-left: 100px;
+  margin-bottom: 20px;
+  margin-top: 15px;
+  font-size: 18px;
+}
+.page {
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  width: 360px;
+  height: 265px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 35px;
+  background-color: white;
+  margin: auto;
+  margin-top: 15px;
+ 
+}
+.page1 {
+  border-radius: 8px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  width: 395px;
+  height: 530px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 35px;
+  background-color: white;
+  margin: auto;
+  margin-top: 15px 
+}
